@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_text">Welcome to My Location. Here, you can find nearby places like Masjid, ATM Booth and Hospital. To provide you with our service, first, we need to make sure your location is on and permission is granted. If you agree and wish to continue, tap on the button below.</string>
+</resources>
